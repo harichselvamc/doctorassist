@@ -59,6 +59,6 @@ def index():
     # Initial GET request
     return render_template('index.html')
 
-# Run the app
-if __name__ == '__main__':
-    app.run()
+# # Run the app
+# if __name__ == '__main__':
+#     app.run()
